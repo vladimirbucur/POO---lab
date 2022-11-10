@@ -8,4 +8,3 @@ public class CounterOutTask implements Task{
         System.out.println(counter);
     }
 }
-
